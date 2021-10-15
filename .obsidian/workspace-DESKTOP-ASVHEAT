@@ -1,0 +1,166 @@
+{
+  "main": {
+    "id": "54a4aad5dd518692",
+    "type": "split",
+    "children": [
+      {
+        "id": "403910559ceb09c8",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "01-Daily Notes/21-07-29.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9c941092d61914d3",
+    "type": "split",
+    "children": [
+      {
+        "id": "616f6d3fafb475a6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "55b9b98d2426bb00",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "c85ed16faa5a0b7e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3f5e0605e2e498bc",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 195
+  },
+  "right": {
+    "id": "396078d8c585ef4c",
+    "type": "split",
+    "children": [
+      {
+        "id": "9af9cdfbffc06527",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f5bf9b8a21f1d8d5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "01-Daily Notes/21-07-29.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7dc1d69f0cff713c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "01-Daily Notes/21-07-29.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c60f94cb0f655b96",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2c0ff13e673b0893",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "01-Daily Notes/21-07-29.md"
+              }
+            }
+          },
+          {
+            "id": "b1d684fa1fbd2f6e",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "5ded844074c33d94",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "13bf147d5ad162f2",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "403910559ceb09c8",
+  "lastOpenFiles": [
+    "01-Daily Notes/21-07-29.md",
+    "Ospek/2021-08-02.md",
+    "Ospek/FAQ.md",
+    "Kartu Identitas/FOTO.md",
+    "Ospek/2021-07-28.md",
+    "01-Daily Notes/21-07-28.md",
+    "01-Daily Notes/21-07-26.md",
+    "01-Daily Notes/21-07-27.md",
+    "{{tp_yesterday}}.md",
+    "Templates/Daily Template.md"
+  ]
+}

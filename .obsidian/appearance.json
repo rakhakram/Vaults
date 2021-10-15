@@ -1,0 +1,24 @@
+{
+  "baseFontSize": 14,
+  "theme": "moonstone",
+  "translucency": false,
+  "cssTheme": "Palatinate",
+  "enabledCssSnippets": [
+    "autofading-ui",
+    "better-bullet-points-in-edit-mode",
+    "bigger-link-popup-preview",
+    "collapsing-sidebar",
+    "custom-icons-differing-files-and-folders",
+    "custom-icons-for-frontmatter-tags",
+    "custom-icons-for-specific-folders",
+    "enlarge-image-on-hover",
+    "hyphenation-and-justification",
+    "image-cards",
+    "nicer-checkboxes",
+    "outliner-for-the-outline-and-file-explorer",
+    "smaller-scrollbar",
+    "stylish-blockquotes",
+    "subtler-folding-gutter-arrows",
+    "tag-pills"
+  ]
+}
