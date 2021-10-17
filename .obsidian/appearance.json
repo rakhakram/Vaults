@@ -1,13 +1,12 @@
 {
-  "baseFontSize": 13,
+  "baseFontSize": 15,
   "theme": "moonstone",
   "translucency": false,
-  "cssTheme": "Palatinate",
+  "cssTheme": "Gastown",
   "enabledCssSnippets": [
     "autofading-ui",
     "better-bullet-points-in-edit-mode",
     "bigger-link-popup-preview",
-    "collapsing-sidebar",
     "custom-icons-differing-files-and-folders",
     "custom-icons-for-frontmatter-tags",
     "custom-icons-for-specific-folders",

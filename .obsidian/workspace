@@ -4,37 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "5ba7f4223edcf70c",
-        "type": "split",
-        "children": [
-          {
-            "id": "a2a03eed2b1b5708",
-            "type": "leaf",
-            "dimension": 36.29764065335753,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Note Taking/Webinar/17-10-21_tulis.md",
-                "mode": "source"
-              }
-            },
-            "group": "c0c013cb7285d4ba"
-          },
-          {
-            "id": "51267561cca64371",
-            "type": "leaf",
-            "dimension": 63.70235934664247,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Note Taking/Webinar/17-10-21_tulis.md",
-                "mode": "preview"
-              }
-            },
-            "group": "c0c013cb7285d4ba"
+        "id": "50ab77473e4fcbee",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Note Taking/Keungan Negara 1/P3-Webinar.md",
+            "mode": "source"
           }
-        ],
-        "direction": "horizontal"
+        }
       }
     ],
     "direction": "vertical"
@@ -100,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Note Taking/Webinar/17-10-21_tulis.md",
+                "file": "Note Taking/Keungan Negara 1/P3-Webinar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Note Taking/Webinar/17-10-21_tulis.md",
+                "file": "Note Taking/Keungan Negara 1/P3-Webinar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -140,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Note Taking/Webinar/17-10-21_tulis.md"
+                "file": "Note Taking/Keungan Negara 1/P3-Webinar.md"
               }
             }
           },
@@ -174,17 +152,17 @@
     "width": 349,
     "collapsed": true
   },
-  "active": "a2a03eed2b1b5708",
+  "active": "50ab77473e4fcbee",
   "lastOpenFiles": [
+    "Note Taking/Keungan Negara 1/P3-Webinar.md",
+    "Note Taking/Keungan Negara 1/Webinar.md",
+    "README.md",
+    "Pasted image 20211017102057.png",
     "Note Taking/Webinar/17-10-21_tulis.md",
-    "Note Taking/Webinar/Untitled.md",
-    "Note Taking/Webinar/Akademik ASP.md",
-    "Note Taking/Ilmu Ekonomi Mikro 1/Pekan 1.md",
-    "Note Taking/Identity Card.md",
-    "Note Taking/Panduan Sitasi UGM.pdf",
-    "Note Taking/Untitled.md",
-    "Note Taking/tes 1.md",
-    "Note Taking/Akuntansi/Pekan 2.md",
-    "README.md"
+    "Pasted image 20211017101944.png",
+    "Pasted image 20211017095340.png",
+    "Pasted image 20211017095032.png",
+    "Pasted image 20211017101445.png",
+    "Pasted image 20211017100150.png"
   ]
 }
