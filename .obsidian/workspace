@@ -4,15 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "a2a03eed2b1b5708",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "skills/x_Note Taking Tips/looks like worked well.md",
-            "mode": "source"
+        "id": "5ba7f4223edcf70c",
+        "type": "split",
+        "children": [
+          {
+            "id": "a2a03eed2b1b5708",
+            "type": "leaf",
+            "dimension": 36.29764065335753,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Note Taking/Webinar/17-10-21_tulis.md",
+                "mode": "source"
+              }
+            },
+            "group": "c0c013cb7285d4ba"
+          },
+          {
+            "id": "51267561cca64371",
+            "type": "leaf",
+            "dimension": 63.70235934664247,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Note Taking/Webinar/17-10-21_tulis.md",
+                "mode": "preview"
+              }
+            },
+            "group": "c0c013cb7285d4ba"
           }
-        }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -60,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 487.0017261505127
+    "width": 309.0017261505127,
+    "collapsed": true
   },
   "right": {
     "id": "396078d8c585ef4c",
@@ -69,6 +92,7 @@
       {
         "id": "9af9cdfbffc06527",
         "type": "tabs",
+        "dimension": 63.76811594202898,
         "children": [
           {
             "id": "f5bf9b8a21f1d8d5",
@@ -76,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "skills/x_Note Taking Tips/looks like worked well.md",
+                "file": "Note Taking/Webinar/17-10-21_tulis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "skills/x_Note Taking Tips/looks like worked well.md",
+                "file": "Note Taking/Webinar/17-10-21_tulis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -116,56 +140,8 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "skills/x_Note Taking Tips/looks like worked well.md"
+                "file": "Note Taking/Webinar/17-10-21_tulis.md"
               }
-            }
-          },
-          {
-            "id": "279d6417f803d097",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "254300c49cc1c40e",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "434f699b1bd23399",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "40ecff592690ac44",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "b348fe9a868003a4",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "f5897fb067d193a8",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           },
           {
@@ -176,54 +152,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 6
-      },
-      {
-        "id": "f3ca40149c8bd4b7",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "cc27365456f040b3",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          }
-        ]
-      },
-      {
-        "id": "a8661663ad7702b4",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "df17aad847808cb1",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          }
-        ]
-      },
-      {
-        "id": "10ecf38d7da80405",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "fa4865e9a131f234",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          }
         ]
       },
       {
         "id": "3929a357ade212c8",
         "type": "tabs",
+        "dimension": 36.231884057971016,
         "children": [
           {
             "id": "23dfaaa9bd3392bd",
@@ -242,15 +176,15 @@
   },
   "active": "a2a03eed2b1b5708",
   "lastOpenFiles": [
-    "skills/x_Note Taking Tips/Untitled.md",
-    "skills/x_Note Taking Tips/changin name.md",
-    "skills/x_Note Taking Tips/Tips.md",
+    "Note Taking/Webinar/17-10-21_tulis.md",
+    "Note Taking/Webinar/Untitled.md",
+    "Note Taking/Webinar/Akademik ASP.md",
     "Note Taking/Ilmu Ekonomi Mikro 1/Pekan 1.md",
-    "mind ts map.md",
-    "Untitled mindmap.md",
-    "skills/x_Note Taking Tips/github desktop.md",
-    "skills/x_Note Taking Tips/GitHub sync.md",
-    "x_Note Taking Tips/Tips.md",
-    "Self Knowledge/02_masalah umum terkait tujuan hidup.md"
+    "Note Taking/Identity Card.md",
+    "Note Taking/Panduan Sitasi UGM.pdf",
+    "Note Taking/Untitled.md",
+    "Note Taking/tes 1.md",
+    "Note Taking/Akuntansi/Pekan 2.md",
+    "README.md"
   ]
 }

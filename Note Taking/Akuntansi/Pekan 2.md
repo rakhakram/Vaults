@@ -1,19 +1,19 @@
 # Analyzing Trnasactions
 
 ### Definisi Akun
-catatan terpisah yang berisi mengenai naik turunnya setiap elemen persamaan akuntansi
-
+==catatan terpisah== yang berisi mengenai ==naik turunnya== setiap ==elemen== persamaan akuntansi
 ![[Pasted image 20211009141548.png]]
 ![[Pasted image 20211009141601.png]]
 ![[Pasted image 20211009151707.png]]
+
 ###### debit
-catatan peningkatan dalam aset
+catatan ==peningkatan== dalam aset
 ###### credit
-catatan penurunan dalam aset
+catatan ==penurunan== dalam aset
 
 ### Karakteristik Akuntansi
 ##### Assets
-segala sumber daya yang dimiliki oleh perusahaan.
+segala ==sumber daya== yang dimiliki oleh perusahaan.
 fisik
 - cash
 -  supplies
@@ -29,7 +29,7 @@ intangibles
 
 
 ##### Liabilities
-hutang kepada pihak luar
+==hutang== kepada pihak luar
 key : **payable**
 - accounts payable 
 - notes payable
@@ -39,19 +39,19 @@ key : **payable**
 - tuition revenue
 
 ##### Owner's equity 
-harta dari pemilik perusahaan setelah semua aset dikurangi oleh hutang
+==harta== dari pemilik perusahaan setelah semua aset dikurangi oleh hutang
 - capital account 
 - drawing
 
 ##### Revenues
-peningkatan aset & OE dari penjualan produk/jasa ke pelanggan
+==peningkatan== aset & OE dari penjualan produk/jasa ke pelanggan
 - fees earned
 - fares earned
 - comissions revenue
 - rent revenue
 
 ##### Expenses
-biaya/aset yang digunakan untuk menunjang proses produksi yang bertujuan menghasilkan pendapatan
+==biaya==/aset yang digunakan untuk menunjang proses produksi yang bertujuan menghasilkan pendapatan
 - wages expense
 - rent expense
 - utilities expense
@@ -69,5 +69,5 @@ biaya/aset yang digunakan untuk menunjang proses produksi yang bertujuan menghas
 ![[Pasted image 20211009152015.png]]
 ![[Pasted image 20211009152337.png]]
 ### Jurnal dan Posting ke Buku Besar (Ledger)
-**Ledger** kumpulan akun yang digunakan dalam entitas bisnis
+**Ledger** ==kumpulan== akun yang digunakan dalam entitas bisnis
 ### Penyusunan Neraca Saldo
