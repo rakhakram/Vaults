@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "50ab77473e4fcbee",
+        "id": "3c470e42e0d2376d",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Note Taking/Keungan Negara 1/P3-Webinar.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -60,8 +57,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 309.0017261505127,
-    "collapsed": true
+    "width": 309.0017261505127
   },
   "right": {
     "id": "396078d8c585ef4c",
@@ -78,7 +74,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Note Taking/Keungan Negara 1/P3-Webinar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +90,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Note Taking/Keungan Negara 1/P3-Webinar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -117,9 +111,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Note Taking/Keungan Negara 1/P3-Webinar.md"
-              }
+              "state": {}
             }
           },
           {
@@ -152,8 +144,9 @@
     "width": 349,
     "collapsed": true
   },
-  "active": "50ab77473e4fcbee",
+  "active": "3c470e42e0d2376d",
   "lastOpenFiles": [
+    "Note Taking/Webinar/awareness org.md",
     "Note Taking/Keungan Negara 1/P3-Webinar.md",
     "Note Taking/Keungan Negara 1/Webinar.md",
     "README.md",
@@ -162,7 +155,6 @@
     "Pasted image 20211017101944.png",
     "Pasted image 20211017095340.png",
     "Pasted image 20211017095032.png",
-    "Pasted image 20211017101445.png",
-    "Pasted image 20211017100150.png"
+    "Pasted image 20211017101445.png"
   ]
 }
