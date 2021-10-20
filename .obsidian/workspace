@@ -7,8 +7,11 @@
         "id": "3c470e42e0d2376d",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Note Taking/Keungan Negara 1/P3-Webinar.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -57,7 +60,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 309.0017261505127
+    "width": 309.0017261505127,
+    "collapsed": true
   },
   "right": {
     "id": "396078d8c585ef4c",
@@ -74,6 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Note Taking/Keungan Negara 1/P3-Webinar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,6 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Note Taking/Keungan Negara 1/P3-Webinar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -111,7 +117,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Note Taking/Keungan Negara 1/P3-Webinar.md"
+              }
             }
           },
           {
@@ -146,8 +154,8 @@
   },
   "active": "3c470e42e0d2376d",
   "lastOpenFiles": [
-    "Note Taking/Webinar/awareness org.md",
     "Note Taking/Keungan Negara 1/P3-Webinar.md",
+    "Note Taking/Webinar/awareness org.md",
     "Note Taking/Keungan Negara 1/Webinar.md",
     "README.md",
     "Pasted image 20211017102057.png",
