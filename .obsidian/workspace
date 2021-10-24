@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Note Taking/Keungan Negara 1/📑Kuis.md",
+            "file": "Note Taking/Keungan Negara 1/📑2. APBN.md",
             "mode": "source"
           }
         }
@@ -60,7 +60,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 449.0017261505127,
+    "width": 427.0017681121826,
     "collapsed": true
   },
   "right": {
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Note Taking/Keungan Negara 1/📑Kuis.md",
+                "file": "Note Taking/Keungan Negara 1/📑2. APBN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Note Taking/Keungan Negara 1/📑Kuis.md",
+                "file": "Note Taking/Keungan Negara 1/📑2. APBN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Note Taking/Keungan Negara 1/📑Kuis.md"
+                "file": "Note Taking/Keungan Negara 1/📑2. APBN.md"
               }
             }
           },
@@ -154,7 +154,8 @@
   },
   "active": "9b48212cba22e92f",
   "lastOpenFiles": [
-    "Note Taking/Keungan Negara 1/📑Kuis.md",
+    "Note Taking/Keungan Negara 1/📑2. APBN.md",
+    "Note Taking/Keungan Negara 1/📑1. KN.md",
     "Note Taking/Keungan Negara 1/P3-Webinar.md",
     "Journalling/story/@today.md",
     "skills/🧐 Note Taking Tips/Tips.md",
@@ -162,7 +163,6 @@
     "skills/🧐 Note Taking Tips/GitHub sync.md",
     "skills/🧐 Note Taking Tips/github desktop.md",
     "skills/🧐 Note Taking Tips/changin name.md",
-    "Journalling/feel/📚readabook.md",
-    "Journalling/feel/🥱Procastinating.md"
+    "Journalling/feel/📚readabook.md"
   ]
 }
