@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Note Taking/⏳Ilmu Ekonomi Mikro 1/Kegagalan Pasar.md",
-            "mode": "preview"
+            "file": "Note Taking/⏳Akuntansi/Penggunan laporan keuangan.md",
+            "mode": "source"
           }
         }
       }
@@ -60,7 +60,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 427.0017681121826
+    "width": 427.0017681121826,
+    "collapsed": true
   },
   "right": {
     "id": "396078d8c585ef4c",
@@ -77,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Note Taking/⏳Ilmu Ekonomi Mikro 1/Kegagalan Pasar.md",
+                "file": "Note Taking/⏳Akuntansi/Penggunan laporan keuangan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Note Taking/⏳Ilmu Ekonomi Mikro 1/Kegagalan Pasar.md",
+                "file": "Note Taking/⏳Akuntansi/Penggunan laporan keuangan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -117,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Note Taking/⏳Ilmu Ekonomi Mikro 1/Kegagalan Pasar.md"
+                "file": "Note Taking/⏳Akuntansi/Penggunan laporan keuangan.md"
               }
             }
           },
@@ -153,15 +154,15 @@
   },
   "active": "b84656a8d9d22cf6",
   "lastOpenFiles": [
+    "Note Taking/⏳Akuntansi/Penggunan laporan keuangan.md",
+    "Note Taking/⏳Akuntansi/P1 - akuntansi dasar.md",
+    "Note Taking/⏳Akuntansi/AKUNTANSI.pdf",
+    "Note Taking/⏳Akuntansi/z kuliah umum.md",
     "Note Taking/⏳Ilmu Ekonomi Mikro 1/Kegagalan Pasar.md",
     "Note Taking/⏳Ilmu Ekonomi Mikro 1/Persaingan.md",
     "Note Taking/⏳Ilmu Ekonomi Mikro 1/Persaingan tidak sempurna.md",
-    "Note Taking/⏳Akuntansi/P1 - akuntansi dasar.md",
     "Note Taking/⏳Akuntansi/sifat laporan keuangan.md",
     "Note Taking/⏳Akuntansi/P2 - pencatatan transaksi.md",
-    "Note Taking/Identity Card.md",
-    "Note Taking/Webinar/awareness org.md",
-    "Note Taking/Webinar/17-10-21_design.md",
-    "Note Taking/Webinar/17-10-21_tulis.md"
+    "Note Taking/Identity Card.md"
   ]
 }

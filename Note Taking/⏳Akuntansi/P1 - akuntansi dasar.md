@@ -68,10 +68,11 @@ key : **payable**
 
 
 \
-\n
-\n
+\
+\-
 # Laporan Keuangan
 
+Laporan keuangan perusahaan adalah informasi terpenting tentang perusahaan. Laporan keuangan memberikan gambaran yang jelas tentang urusan keuangan perusahaan, kinerjanya yang dapat dibandingkan dengan kompetitor dan mitra. Dengan demikian, berbagai pengguna dapat membaca dan memahami laporan keuangan perusahaan untuk tujuan mereka sendiri.
+
 ![[sifat laporan keuangan]]
-
-
+![[Penggunan laporan keuangan]]
