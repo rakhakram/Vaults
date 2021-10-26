@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Note Taking/Agama/P5 - Ibadah.md",
-            "mode": "source"
+            "file": "Note Taking/Grateful/Jadwal.md",
+            "mode": "preview"
           }
         }
       }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Note Taking/Agama/P5 - Ibadah.md",
+                "file": "Note Taking/Grateful/Jadwal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Note Taking/Agama/P5 - Ibadah.md",
+                "file": "Note Taking/Grateful/Jadwal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Note Taking/Agama/P5 - Ibadah.md"
+                "file": "Note Taking/Grateful/Jadwal.md"
               }
             }
           },
@@ -154,15 +154,15 @@
   },
   "active": "b84656a8d9d22cf6",
   "lastOpenFiles": [
+    "Note Taking/Grateful/Jadwal.md",
+    "Note Taking/Ilmu Ekonomi Mikro 1/🧐gain eco.md",
+    "Note Taking/Ilmu Ekonomi Mikro 1/Pekan 1.md",
+    "Note Taking/Agama/P1- Proses Penciptaan Manusia.md",
     "Note Taking/Agama/P5 - Ibadah.md",
     "Note Taking/Agama/🧐 gain - agama.md",
-    "Note Taking/Agama/2021-09-28.md",
     "Note Taking/Akuntansi/🪙gain.md",
     "Note Taking/Webinar/awareness org.md",
-    "Note Taking/Grateful/Jadwal.md",
     "Note Taking/Keungan Negara 1/📑1. KN.md",
-    "Note Taking/Keungan Negara 1/📑2. APBN.md",
-    "Note Taking/Keungan Negara 1/P3-Webinar.md",
-    "Journalling/story/@today.md"
+    "Note Taking/Keungan Negara 1/📑2. APBN.md"
   ]
 }
