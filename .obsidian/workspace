@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "9b48212cba22e92f",
+        "id": "b84656a8d9d22cf6",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Note Taking/Keungan Negara 1/📑2. APBN.md",
+            "file": "Note Taking/Agama/P5 - Ibadah.md",
             "mode": "source"
           }
         }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Note Taking/Keungan Negara 1/📑2. APBN.md",
+                "file": "Note Taking/Agama/P5 - Ibadah.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Note Taking/Keungan Negara 1/📑2. APBN.md",
+                "file": "Note Taking/Agama/P5 - Ibadah.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Note Taking/Keungan Negara 1/📑2. APBN.md"
+                "file": "Note Taking/Agama/P5 - Ibadah.md"
               }
             }
           },
@@ -152,17 +152,17 @@
     "width": 349,
     "collapsed": true
   },
-  "active": "9b48212cba22e92f",
+  "active": "b84656a8d9d22cf6",
   "lastOpenFiles": [
-    "Note Taking/Keungan Negara 1/📑2. APBN.md",
+    "Note Taking/Agama/P5 - Ibadah.md",
+    "Note Taking/Agama/🧐 gain - agama.md",
+    "Note Taking/Agama/2021-09-28.md",
+    "Note Taking/Akuntansi/🪙gain.md",
+    "Note Taking/Webinar/awareness org.md",
+    "Note Taking/Grateful/Jadwal.md",
     "Note Taking/Keungan Negara 1/📑1. KN.md",
+    "Note Taking/Keungan Negara 1/📑2. APBN.md",
     "Note Taking/Keungan Negara 1/P3-Webinar.md",
-    "Journalling/story/@today.md",
-    "skills/🧐 Note Taking Tips/Tips.md",
-    "skills/🧐 Note Taking Tips/looks like worked well.md",
-    "skills/🧐 Note Taking Tips/GitHub sync.md",
-    "skills/🧐 Note Taking Tips/github desktop.md",
-    "skills/🧐 Note Taking Tips/changin name.md",
-    "Journalling/feel/📚readabook.md"
+    "Journalling/story/@today.md"
   ]
 }

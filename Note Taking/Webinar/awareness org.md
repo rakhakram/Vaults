@@ -23,10 +23,6 @@ Mike Zumrotun
 
 
 
-#todo
-- [ ] CV PKAKP
-- [ ] PORTOFOLIO
-
  
  ### [Done - PKAKP STAN](https://linktr.ee/pkakp_pknstan)
  Divisi TI & Publikasi -> ***aFact*** akuntansi fact
