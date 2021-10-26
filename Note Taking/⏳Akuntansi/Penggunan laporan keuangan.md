@@ -98,3 +98,5 @@ Siapa pun di luar perusahaan seperti peneliti, siswa, analis, dan lainnya tertar
 
 
 sumber : https://www.rusdionoconsulting.com/rekonsiliasi-fiskal-cara-cocokan-laporan-keuangan-dengan-perpajakan/
+
+## laporang keuangan komersial vs fiskal
