@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Note Taking/⏳Akuntansi/Penggunan laporan keuangan.md",
-            "mode": "source"
+            "file": "Note Taking/⏳Ilmu Ekonomi Mikro 1/Pekan 1.md",
+            "mode": "preview"
           }
         }
       }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#todo",
+                "query": "FISCAL",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Note Taking/⏳Akuntansi/Penggunan laporan keuangan.md",
+                "file": "Note Taking/⏳Ilmu Ekonomi Mikro 1/Pekan 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Note Taking/⏳Akuntansi/Penggunan laporan keuangan.md",
+                "file": "Note Taking/⏳Ilmu Ekonomi Mikro 1/Pekan 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Note Taking/⏳Akuntansi/Penggunan laporan keuangan.md"
+                "file": "Note Taking/⏳Ilmu Ekonomi Mikro 1/Pekan 1.md"
               }
             }
           },
@@ -154,15 +154,15 @@
   },
   "active": "b84656a8d9d22cf6",
   "lastOpenFiles": [
+    "Note Taking/⏳Ilmu Ekonomi Mikro 1/Pekan 1.md",
+    "Note Taking/⏳Keungan Negara 1/Kebijakan Fiskal.md",
+    "Note Taking/⏳Keungan Negara 1/P3-Webinar.md",
+    "Note Taking/⏳Keungan Negara 1/Kebijakan Moneter.md",
+    "Note Taking/⏳Keungan Negara 1/KEUANGAN NEGARA.pdf",
+    "Note Taking/⏳Keungan Negara 1/📑1. KN.md",
     "Note Taking/⏳Akuntansi/Penggunan laporan keuangan.md",
     "Note Taking/⏳Akuntansi/P1 - akuntansi dasar.md",
     "Note Taking/⏳Akuntansi/AKUNTANSI.pdf",
-    "Note Taking/⏳Akuntansi/z kuliah umum.md",
-    "Note Taking/⏳Ilmu Ekonomi Mikro 1/Kegagalan Pasar.md",
-    "Note Taking/⏳Ilmu Ekonomi Mikro 1/Persaingan.md",
-    "Note Taking/⏳Ilmu Ekonomi Mikro 1/Persaingan tidak sempurna.md",
-    "Note Taking/⏳Akuntansi/sifat laporan keuangan.md",
-    "Note Taking/⏳Akuntansi/P2 - pencatatan transaksi.md",
-    "Note Taking/Identity Card.md"
+    "Note Taking/⏳Akuntansi/z kuliah umum.md"
   ]
 }
