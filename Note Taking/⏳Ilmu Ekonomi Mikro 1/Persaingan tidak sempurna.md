@@ -65,6 +65,8 @@ Sejauh persyaratan persaingan sempurna tidak terpenuhi, pasar beroperasi pada pe
 
 ### Monopoli
 
+Pasar monopoli merupakan pasar yang didalamnya hanya terdapat satu pedagang sebagai pemilik atau pemegang hak penjualan terhadap satu atau beberapa produk tertentu, dan diatur dengan undang-undang. Pedagang tersebut disebut sebagai monopolis, monopolis berhak menentukan besaran harga jual sendiri. Sebagai contoh, PT Pertamina (persero), PT Perusahaan Listrik Negara (persero), dan PT Kereta Api (persero).
+
 Pasar hanya terdiri dari satu perusahaan. Karakteristik lain dari pasar monopoli adalah:
 
 - Pemonopoli menetapkan output, harga dan kualitas produk pasar.
@@ -77,6 +79,8 @@ Selanjutnya, monopoli juga berguna di beberapa sektor seperti utilitas publik (a
 
 ### Oligopoli
 
+Pasar oligopoli merupakan sebuah keadaan pasar dengan suatu komoditas yang hanya dikuasai oleh beberapa perusahaan. Namun penjual yang satu dengan yang lain dapat saling memengaruhi harga. Perusahaan yang satu dan yang lain memiliki persaingan yang sangat ketat, hal ini karena strategi pasarnya dilandasi oleh daya cipta. Jika ada penjual lain yang ingin masuk ke pasar ini, peluangnya masih terbuka. Sebagai contoh, perusahaan gula, perusahaan penjual mobil dan sepeda motor, perusahaan rokok, dan lain sebagainya.
+
 Di pasar ini, beberapa pemain melayani banyak pembeli. Jumlah perusahaan lebih dari satu perusahaan tetapi kurang dari jumlah pemain di pasar persaingan monopolistik. Beberapa produsen biasanya mendominasi dan menguasai pangsa pasar yang lebih tinggi dibandingkan dengan pemain lainnya.
 
 Untuk mempengaruhi harga, perusahaan-perusahaan dominan dapat mengubah output mereka. Atau, mereka juga dapat melakukannya dengan strategi diferensiasi, memungkinkan mereka untuk menetapkan harga premium.
@@ -86,6 +90,8 @@ Selanjutnya, di bawah oligopoli, perusahaan memiliki ketergantungan strategis. K
 Fitur lain dari pasar oligopoli adalah munculnya koordinasi antar perusahaan untuk mempertahankan keuntungan tinggi pasar. Itu mungkin terjadi secara diam-diam (kolusi) atau formal (kartel).
 
 ### Persaingan monopolistik
+
+Pasar monopolistik merupakan suatu bentuk pasar yang terdapat beberapa produsen yang menghasilkan barang serupa tetapi memiliki perbedaan dalam beberapa aspek atau disebut juga corak. Pada pasar jenis ini pembeli dan penjual, jumlahnya sama banyak. Masing-masing penjual memiliki kekuatan yang sama, jadi tidak akan ada yang disebut sebagai penguasa pasar. Sebagai contoh, jasa angkutan, toko kelontong, jasa pangkas rambut.
 
 Persaingan monopolistik mirip dengan persaingan sempurna. Pasar terdiri dari banyak produsen, masing-masing dengan ukuran yang mirip dan relatif kecil. Oleh karena itu, mereka tidak dapat mempengaruhi harga dengan mengubah output. Hambatan masuk dan keluar pasar juga rendah.
 
