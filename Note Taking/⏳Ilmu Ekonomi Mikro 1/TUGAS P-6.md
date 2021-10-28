@@ -1,3 +1,5 @@
+[[Prinsip Ekonomi]]
+
 - ### trade off : sosial & pembangunan
 	***trade off***
 	Kebijakan pelebaran defisit diarahkan untuk penanganan aspek kesehatan, perlindungan sosial bagi kelompok miskin dan rentan, serta dukungan untuk dunia usaha terutama Usaha Mikro Kecil dan Menengah (UMKM) yang disinergikan dengan langkah realokasi dan refocusing APBN

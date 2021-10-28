@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Note Taking/⏳Ilmu Ekonomi Mikro 1/Persaingan tidak sempurna.md",
-            "mode": "source"
+            "file": "Note Taking/⏳Ilmu Ekonomi Mikro 1/Prinsip Ekonomi.md",
+            "mode": "preview"
           }
         }
       }
@@ -60,7 +60,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 427.0017681121826
+    "width": 427.0017681121826,
+    "collapsed": true
   },
   "right": {
     "id": "396078d8c585ef4c",
@@ -76,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Note Taking/⏳Ilmu Ekonomi Mikro 1/Persaingan tidak sempurna.md",
+                "file": "Note Taking/⏳Ilmu Ekonomi Mikro 1/Prinsip Ekonomi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Note Taking/⏳Ilmu Ekonomi Mikro 1/Persaingan tidak sempurna.md",
+                "file": "Note Taking/⏳Ilmu Ekonomi Mikro 1/Prinsip Ekonomi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -116,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Note Taking/⏳Ilmu Ekonomi Mikro 1/Persaingan tidak sempurna.md"
+                "file": "Note Taking/⏳Ilmu Ekonomi Mikro 1/Prinsip Ekonomi.md"
               }
             }
           },
@@ -185,15 +186,15 @@
   },
   "active": "4527cc73b749e619",
   "lastOpenFiles": [
-    "Note Taking/⏳Ilmu Ekonomi Mikro 1/Persaingan tidak sempurna.md",
-    "Note Taking/⏳Ilmu Ekonomi Mikro 1/Pasar Input.md",
-    "Note Taking/⏳Ilmu Ekonomi Mikro 1/Definisi ilmu ekonomi.md",
-    "Untitled.md",
-    "Note Taking/⏳Ilmu Ekonomi Mikro 1/Batas kemungkinan produksi.md",
-    "Note Taking/⏳Ilmu Ekonomi Mikro 1/Keunggulan absolut dan komparatif.md",
     "Note Taking/⏳Ilmu Ekonomi Mikro 1/Prinsip Ekonomi.md",
+    "Prinsip Ekonomi.md",
     "Note Taking/⏳Ilmu Ekonomi Mikro 1/TUGAS P-6.md",
-    "Note Taking/⏳Ilmu Ekonomi Mikro 1/Masalah ekonomi.md",
-    "Note Taking/⏳Ilmu Ekonomi Mikro 1/Jenis Barang.md"
+    "Note Taking/Identity Card.md",
+    "Note Taking/Jadwal.md",
+    "Note Taking/⏳Pengantar Ilmu Hukum 1/HUKUM.pdf",
+    "Note Taking/Task Achieved.md",
+    "skills/Webinar/Akademik ASP.md",
+    "Note Taking/⏳Akuntansi/sifat laporan keuangan.md",
+    "Note Taking/⏳Akuntansi/P2 - pencatatan transaksi.md"
   ]
 }

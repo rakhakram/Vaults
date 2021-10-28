@@ -5,17 +5,57 @@ patokan perilaku ekonomi dalam kegiatan perekonomian agar tindakan yang dibuat s
 
 *memperoleh hasil semaksimal mungkin dengan pengorbanan tertentu*
 
+> **==1. trade-off==**
+> - Mengorbankan suatu kegiatan/keadaan demi keadaan lain.
+> - Ada pihak yang diuntungkan & dirugikan jika menyangkut hajat orang banyak
+
+> **==2. *opportunity cost*==**
+> - biaya implisit yang dikorbankan untuk memperoleh kesempatan lainnya
+
+> **==3. berpikir rasional dengan konsep marginal==**
+> - pengambilan keputusan dengan bijaksana berdasarkan data yang ada sehingga memperoleh marginal benefit
+> - meminimalisir kerugian
+
+> **==4. orang bereaksi terhadap insentif==**
+> - insentif (pajak/subsidi) memberi pengaruh kepada perilaku masyarakat.
+
+> **==5. perdagangan menguntungkan semua pihak==**
+> - transaksi yang ada memberi keuntungan kepada semua pihak
+> - terjadinya keunggulan komparatif
+
+> **==6. Pasar biasanya adalah tempat yang baik untuk mengatur kegiatan ekonomi==**
+> - Terjadi penentuan harga oleh produsen & konsumen sehingga tercipta kegiatan ekonomi yang menguntukan semua pihak
+> - akan tetapi, pemerintah bisa mengatur kegiatan ekonomi dengan memberi pajak dengan dampak merusak harga keseimbangan
+
+> **==7. Pemerintah terkadang mampu memperbaiki hasil akhir mekanisme pasar==**
+> - pemerintah dapat melakukan intervensi kegiatan ekonomi dengan membuat kebijakan untuk melindungi pedagang & meningkatkan kondisi ekonomi agar tidak terjadi *market failure*
+> - jika terjadi *market failure*, pemerintah dapat mengakuisisi perusahaan sehingga produksi tetap berjalan & memeperkecil angka pengangguran
+
+> **==8. Standar Hidup Negara Bergantung pada Kemampuannya dalam Memproduksi Barang dan Jasa==**
+> - tinggi rendahnya tingkat produksi masyarakat mempengaruhi kemampuan daya beli masyarakat
+
+> **==9. Harga akan Meningkat Jika Pemerintah Mencetak Uang dalam Jumlah yang Banyak==**
+> - pertumbuhan peredaran jumlah uang akan menurunkan nilai mata uang
+
+
+> **==10. Pemerintah Menghadapi Trade-off Jangka Pendek antara Inflasi dan Pengangguran==**
+> - mengatasi inflasi, dengan membatasi peredaran jumlah uang, tetapi meningkatkan pengangguran
+> - mengatasi pengangguran, dengan membuka banyak lapangan kerja baru, tetapi daya beli & jumlah peredaran uang meningkat
+
+
+
 ***kita***
-- #### Pelaku ekonomi dihadapkan dengan masalah trade-off.
+- #### 1. Pelaku ekonomi dihadapkan dengan masalah trade-off 
 
-Pada setiap pengambilan keputusan ekonomi, seseorang akan dihadapkan pada suatu pilihan, dimana pilihan yang satu akan mengorbankan pilihan yang lainnya. _Trade off_ yang dialami oleh semua masyarakat ialah ==efisiensi dan pemerataan==. Efisiensi (efficiency) berarti masyarakat mendapatkan manfaat yang optimal atas penggunaan sumber-sumber daya yang langka. Sementara itu, pemerataan (equity) berarti manfaat dan sumber-sumber daya tersebut didistribusikan secara adil di antara anggota masyarakat. Dengan kata lain, efisiensi merujuk pada besarnya suatu 'kue ekonomi,' pemerataan merujuk pada bagaimana 'kue ekonomi' itu dibagi. Sering kali ketika kebijakan-kebijakan pemerintah sedang disusun, kedua hal ini menimbulkan konflik.
+Pada setiap pengambilan keputusan ekonomi, seseorang akan dihadapkan pada suatu pilihan, dimana pilihan yang satu akan mengorbankan pilihan yang lainnya. _Trade off_ yang dialami oleh semua masyarakat ialah ==efisiensi dan pemerataan==. Efisiensi (efficiency) berarti masyarakat mendapatkan manfaat yang optimal atas penggunaan sumber-sumber daya yang langka. Sementara itu, pemerataan (equity) berarti manfaat dan sumber-sumber daya tersebut didistribusikan secara adil di antara anggota masyarakat. Dengan kata lain, efisiensi merujuk pada besarnya suatu 'kue ekonomi,' pemerataan merujuk pada bagaimana 'kue ekonomi' itu dibagi. Sering kali ketika kebijakan-kebijakan pemerintah sedang disusun, kedua hal ini menimbulkan konflik. ^tradeoff
 
-Sebagai contoh adalah kebijakan-kebijakan yang dibuat untuk mencapai kesejahteraan yang lebih merata. Sebagian kebijakan ini, misalnya ==sistem kemakmuran atau asuransi bagi pengangguran, mencoba membantu anggota masyarakat yang paling membutuhkan==. Yang lainnya, seperti pajak penghasilan individu, meminta mereka yang sukses secara finansial untuk lebih memberikan kontribusi guna mendukung pemerintah. Meskipun kebijakan-kebijakan ini bermanfaat untuk menghasilkan pemerataan yang lebih baik, ada pula dampak buruknya: berkurangnya efisiensi. Saat pemerintah melakukan pemerataan pendapatan dari yang kaya ke yang miskin, pemerintah mengurangi penghargaan atas kerja keras rakyatnya. Hasilnya, kinerja orang-orang akan menurun dan barang atau jasa yang dihasilkan oleh mereka jadi lebih sedikit. Dengan kata lain, ketika pemerintah mencoba memotong 'kue ekonomi' ke dalam bagian-bagian yang sama besar, potongan-potongannya tentu saja jadi semakin kecil.
+Sebagai contoh adalah kebijakan-kebijakan yang dibuat untuk mencapai kesejahteraan yang lebih merata. Sebagian kebijakan ini, misalnya sistem kemakmuran atau asuransi bagi pengangguran, mencoba ==membantu anggota masyarakat yang paling membutuhkan==. Yang lainnya, seperti pajak penghasilan individu, meminta mereka yang ==sukses secara finansial untuk lebih memberikan kontribusi== guna mendukung pemerintah. Meskipun kebijakan-kebijakan ini bermanfaat untuk ==menghasilkan pemerataan yang lebih baik==, ada pula dampak buruknya: berkurangnya efisiensi. Saat pemerintah melakukan pemerataan pendapatan dari yang kaya ke yang miskin, pemerintah ==mengurangi penghargaan atas kerja keras rakyatnya==. Hasilnya, ==kinerja orang-orang akan menurun dan barang atau jasa yang dihasilkan oleh mereka jadi lebih sedikit==. Dengan kata lain, ketika pemerintah mencoba memotong 'kue ekonomi' ke dalam bagian-bagian yang sama besar, potongan-potongannya tentu saja jadi semakin kecil.
+
 
 
 - #### Biaya adalah sesuatu yang harus dikorbankan untuk memperoleh sesuatu
 
-Karena semua orang menghadapi tradeoff, maka untuk mengambil keputusan kita harus membandingkan biaya dan manfaat dari setiap tindakan yang akan dilakukan. Dalam banyak kasus, biaya terkadang tidak terlihat terlalu jelas di awalnya.
+Karena semua orang menghadapi tradeoff, maka untuk mengambil keputusan kita harus membandingkan biaya dan manfaat dari setiap tindakan yang akan dilakukan. Dalam banyak kasus, biaya terkadang tidak terlihat terlalu jelas di awalnya. ^opportunitycost
 
 Pengorbanan itu dapat berupa uang, barang, tenaga, waktu maupun kesempatan. Pengorbanan yang tidak bertujuan sendiri disebut juga sebagai pemborosan. Berdasarkan tujuan pengambilan, biaya terbagi lagi menjadi Biaya Relevan _“Relevant Cost”_ (Biaya yang terjadi pada suatu alternatif tindakan tertentu, tetapi tidak terjadi pada alternatif tindakan lain.
 
@@ -31,18 +71,19 @@ Sebagai contoh, keputusan untuk duduk di bangku kuliah. Keuntungan nya adalah me
 
 Masalah yang pertama adalah hal-hal yang sebenarnya bukan merupakan biaya dari kuliah. Sekalipun tidak kuliah, anda tetap membutuhkan tempat untuk tidur dan makan. Biaya sewa tempat tinggal dan uang makan disebut biaya hanya karena keduanya menjadi lebih mahal pada masa anda kuliah, di kampus, daripada di tempat lain. Memang, biaya sewa tempat tinggal dan uang makan anda sekarang bisa jadi lebih daripada mereka yang tinggal atau kuliah di tempat lain. Jika begitu, maka sebenarnya selisih biaya sewa dan uang makan tersebut adalah keuntungan dari berkuliah, alih-alih biayanya.
 
-***kuliah - gaji kerja + gaji mendatang*** atau ***kerja + gaji kerja***
 
 
 - #### Orang yang rasional berpikir dengan konsep marjinal
 
-Rasional adalah pengambilan keputusan menurut pikiran dan pertimbangan yang logis. Senada dengan definisi tersebut, kamus Oxford menjelaskan rasional memiliki makna berdasarkan atau sesuai dengan nalar atau logika, mampu berpikir secara bijaksana atau logis, dan memiliki kemampuan bernalar.
+Rasional adalah pengambilan keputusan menurut pikiran dan pertimbangan yang logis. Senada dengan definisi tersebut, kamus Oxford menjelaskan rasional memiliki makna berdasarkan atau sesuai dengan nalar atau logika, mampu berpikir secara bijaksana atau logis, dan memiliki kemampuan bernalar. ^rasional
 
 Sebagai contoh, bayangkan sebuah perusahaan penerbangan yang harus menentukan harga tiket untuk penumpang yang membelinya di saat-saat akhir. Jika menerbangkan sebuah pesawat dengan kapasitas 200 orang membutuhkan biaya $100.000, maka biaya rata-rata satu kursi adalah $500. Siapa pun bisa segera menyimpulkan bahwa perusahaan penerbangan itu tidak boleh menjual tiket di bawah $500. Namun faktanya, perusahaan penerbangan itu dapat meningkatkan keuntungannya dengan cara berpikir pada batas-batas. Bayangkan pesawat itu terbang dengan 10 kursi kosong, sementara ada seorang calon penumpang yang rela membayar $300 untuk terbang. Apakah perusahaan penerbangan itu seharusnya menjual tiket seharga $300 untuk orang tersebut? Tentu saja harus. Jika ada kursi kosong di pesawat itu, adanya tambahan satu orang penumpang hanya akan menambah biaya operasionalnya sedikit sekali. Meskipun biaya rata-rata untuk menerbangkan seorang penumpang adalah $500, biaya marginal-nya hanyalah sebesar konsumsi untuk orang tersebut. Selama si penumpang tambahan membayar lebih daripada biaya marginal, menjual tiket kepadanya tentu saja menguntungkan.
 
 Seperti yang ditunjukan dalam contoh-contoh di atas, individu dan perusahaan dapat mengambil keputusan-keputusan yang lebih baik dengan cara berpikir pada batas-batas. Seorang pengambil keputusan yang rasional akan bertindak, jika dan hanya jika keuntungan dari tindakan tersebut melebihi biaya marginalnya.
 
 Para ahli mengungkapkan bahwa pemikiran rasional merupakan kemampuan seseorang untuk menarik kesimpulan yang berdasar dan dapat dibenarkan atau didukung oleh data, aturan, serta logika. Dari pengertian di atas, dapat disimpulkan bahwa rasional merupakan kata sifat yang berkaitan dengan kemampuan seseorang berpikir relevan dan logis, didukung data terpercaya, serta dibenarkan oleh aturan yang berlaku. Dalam prinsip ekonomi, pembuat keputusan yang rasional akan menghasilkan marginal benefit.
+
+
 
 - #### Orang bereaksi terhadap insentif.
 
@@ -53,6 +94,7 @@ Pembuat kebijakan publik tidak boleh melupakan pentingnya insentif, karena banya
 Analisis Petzman terhadap keamanan berkendara adalah suatu contoh dari prinsip umum yang mengatakan bahwa kita tanggap terhadap insentif. Banyak insentif yang dipelajari para ekonom lebih nyata sifatnya daripada aturan keamanan berkendaraan. Tidak ada yang terkejut jika masyarakat di Eropa, yang pajak bahan bakar nya lebih tinggi di AS, mengemudikan mobil yang lebih kecil. Bagaimana pun juga, seperti yang ditunjukan oleh contoh tadi, suatu kebijakan dapat menghasilkan pengaruh yang awalnya tidak terlalu jelas. Ketika menganalisis kebijakan apapun, kita harus mempertimbangkan tidak hanya pengaruh-pengaruh langsungnya, tetapi juga pengaruh-pengaruh tidak langsung yang timbul akibat adanya insentif. Jika kebijakan tersebut mengubah insentif, perilaku masyarakat akan ikut berubah.
 
 ontoh : Seseorang akan bekerja sesuai porsi saat penghasilannya sama dengan yang sebelumnya, namun saat mendapatkan  insentif maka ia akan bekerja secara lebih ekstra dibandingkan sebelumnya.
+
 
 ***interaksi masyarakat***
 - #### Perdagangan Menguntungkan Semua Pihak
@@ -67,6 +109,8 @@ Perdagangan membuat semua orang dapat berspesialisasi dalam keahlian mereka, sep
 
 Negara, seperti juga keluarga, juga diuntungkan dari perdagangan. Perdagangan menyebabkan negara-negara dapat berspesialisasi dalam keahlian mereka dan menikmati lebih banyak barang dan jasa. Negara Jepang, seperti juga Prancis, Mesir, dan Brasil adalah mitra AS di kancah perekonomian dunia, sekaligus pesaing-pesaingnya.
 
+
+
 - #### Pasar biasanya adalah tempat yang baik untuk mengatur kegiatan ekonomi
 
 Pasar adalah salah satu dari berbagai sistem, institusi, prosedur, hubungan sosial dan infrastruktur tempat usaha menjual barang, jasa, dan tenaga kerja untuk orang-orang dengan imbalan uang. [Pasar](https://www.gramedia.com/literasi/pengertian-pasar-barang/) dalam ilmu ekonomi adalah tempat bertemunya pembeli dan penjual untuk melakukan transaksi ekonomi.
@@ -79,23 +123,25 @@ Dalam bukunya An Inquiry into the Nature and Causes of the Wealth of Nation yang
 
 Ada hal yang harus diperhatikan berkenaan dengan kemampuan tangan tak tampak dalam memandu kegiatan ekonomi: Ketika pemerintah mencegah harga-harga untuk menyesuaikan diri secara alamiah terhadap permintaan dan penawaran, kemampuan tangan tak tampak untuk mengoordinasikan jutaan rumah tangga dan perusahaan yang menyusun perekonomian menjadi lumpuh. Hal ini menjelaskan mengapa pajak berdampak buruk pada alokasi sumber-sumber daya: Pajak merusak harga, dan otomatis juga merusak keputusan-keputusan perusahaan dan rumah tangga. Hal ini juga menjelaskan dampak-dampak lebih buruk yang disebabkan oleh berbagai kebijakan yang langsung mengontrol harga. Misalnya, pengontrolan biaya sewa. Dan hal itu juga menjelaskan mengapa komunisme gagal. Di negara komunis, harga tidak ditentukan di pasar, melainkan didikte oleh para perencana terpusat. Perencana terpusat ini tidak memiliki informasi yang tercermin dari harga ketika harga itu bebas untuk menanggapi kekuatan pasar. Perencana terpusat gagal karena mereka menjalankan perekonomian dengan satu tangan terikat di belakang mereka, yaitu tangan tak tampak itu sendiri.
 
+
 - #### Pemerintah terkadang mampu memperbaiki hasil akhir mekanisme pasar
 
-Intervensi di bidang ekonomi biasanya dilakukan oleh pemerintah. Hal ini dilakukan untuk membantu pedagang-pedagang di pasar sehingga dapat menguntungkan kedua belah pihak yaitu penjual dan pembeli.
+Intervensi di bidang ekonomi biasanya dilakukan oleh pemerintah. Hal ini dilakukan untuk ==membantu pedagang-pedagang== di pasar sehingga dapat menguntungkan kedua belah pihak yaitu penjual dan pembeli.
 
-Jika kemampuan tangan tak tampak begitu besar, mengapa kita perlu pemerintah? Salah satu jawabannya adalah  tangan tak tampak perlu pemerintah untuk melindunginya. Pasar akan bekerja jika hak-hak kepemilikan diakui. Seorang petani tidak akan menanam padi jika pada akhirnya hasil panennya boleh saja dicuri, dan sebuah restoran tidak akan menyediakan makanan kecuali ada kepastian bahwa pembelinya akan membayar makanan tersebut. Kita semua mengandalkan polisi dan pengadilan yang disediakan pemerintah untuk menegakan hak-hak kita atas hal-hal yang kita hasilkan.
+Jika kemampuan tangan tak tampak begitu besar, mengapa kita perlu pemerintah? Salah satu jawabannya adalah  ==tangan tak tampak perlu pemerintah untuk melindunginya==. Pasar akan bekerja jika hak-hak kepemilikan diakui. Seorang petani tidak akan menanam padi jika pada akhirnya hasil panennya boleh saja dicuri, dan sebuah restoran tidak akan menyediakan makanan kecuali ada kepastian bahwa pembelinya akan membayar makanan tersebut. Kita semua mengandalkan polisi dan pengadilan yang disediakan pemerintah untuk menegakan hak-hak kita atas hal-hal yang kita hasilkan.
 
-Tapi ada juga jawaban lain atas pertanyaan tersebut: Meskipun pasar adalah tempat yang baik untuk mengorganisasikan kegiatan ekonomi, pasar tidaklah sempurna. Ada dua alasan umum bagi pemerintah untuk melakukan intervensi di bidang ekonomi, yakni mendukung ==efisiensi dan pemerataan==. Artinya kebijakan-kebijakan pemerintah bertujuan untuk memperbesar kue ekonomi atau untuk mengubah cara pembagian kue itu.
+Tapi ada juga jawaban lain atas pertanyaan tersebut: Meskipun pasar adalah tempat yang baik untuk mengorganisasikan kegiatan ekonomi, pasar tidaklah sempurna. Ada dua alasan umum bagi pemerintah untuk melakukan intervensi di bidang ekonomi, yakni mendukung efisiensi dan pemerataan. Artinya ==kebijakan-kebijakan pemerintah== bertujuan untuk memperbesar kue ekonomi atau untuk mengubah cara pembagian kue itu.
 
 Karenanya, saat ini penjual dapat dengan mudah memaksimalkan penghasilannya dengan cara menambahkan pemasukan atas barang atau stok dagang dengan begitu akan memperoleh hasil yang cukup maksimal. Contoh Prinsip Peningkatan Faktor Produksi yaitu dengan Semakin bertambahnya perusahaan yang bangkrut mengakibatkan terjadinya kegagalan pasar.
 
-Dalam hal tersebut pemerintah kemudian dapat ikut andil untuk menyelamatkan semua perusahaan tersebut dari kebangkrutan, dan menjaga kelancaran setiap produksi. Tidak hanya itu saja pemerintah juga akan memperkecil angka pengangguran dengan cara _but out_, atau sebutan lainnya pengambil alih suatu perusahaan oleh pihak pemerintah.
+Dalam hal tersebut pemerintah kemudian dapat ikut andil untuk menyelamatkan semua perusahaan tersebut dari kebangkrutan, dan menjaga kelancaran setiap produksi. Tidak hanya itu saja pemerintah juga akan memperkecil angka pengangguran dengan cara _but out_, atau sebutan lainnya ==pengambil alih suatu perusahaan oleh pihak pemerintah==.
 
-Meskipun tangan tak tampak biasanya memandu pasar mengalokasikan sumber-sumber daya secara efisien, hal ini tidak selalu terjadi. Para ekonom menggunakan istilah kegagalan pasar (market failure) saat merujuk pada situasi dimana pasar gagal mengalokasikan sumber-sumber daya itu secara efektif oleh kemampuannya sendiri. Salah satu penyebab kegagalan pasar adalah eksternalitas (externality), dampak tindakan-tindakan seorang terhadap kemakmuran orang-orang disekitarnya. Suatu contoh klasik dari biaya eksternal adalah polusi. Kemungkinan lain adalah kekuasaan pasar (market power), yaitu kemampuan sekelompok orang untuk mengatur harga-harga di pasar. Sebagai contoh, jika semua orang perlu air, tetapi hanya ada satu sumur, pemilik sumur tersebut tidak perlu bersaing dengan pihak lain. Dengan adanya eksternalitas atau kekuasaan pasar, kebijakan publik yang dirancang dengan baik dapat meningkatkan efisiensi perekonomian.
+Meskipun tangan tak tampak biasanya memandu pasar mengalokasikan sumber-sumber daya secara efisien, hal ini tidak selalu terjadi. Para ekonom menggunakan istilah kegagalan pasar (market failure) saat merujuk pada situasi dimana pasar gagal mengalokasikan sumber-sumber daya itu secara efektif oleh kemampuannya sendiri. Salah satu penyebab kegagalan pasar adalah eksternalitas (externality), dampak tindakan-tindakan seorang terhadap kemakmuran orang-orang disekitarnya. Suatu contoh klasik dari biaya eksternal adalah polusi. Kemungkinan lain adalah kekuasaan pasar ==(market power)==, yaitu kemampuan sekelompok orang untuk mengatur harga-harga di pasar. Sebagai contoh, jika semua orang perlu air, tetapi hanya ada satu sumur, pemilik sumur tersebut tidak perlu bersaing dengan pihak lain. Dengan adanya eksternalitas atau kekuasaan pasar, kebijakan publik yang dirancang dengan baik dapat meningkatkan efisiensi perekonomian.
 
 Tangan tak tampak tidak bisa memastikan semua orang mendapatkan makanan yang cukup, pakaian yang pantas, dan layanan kesehatan yang layak. Banyak kebijakan publlik, misalnya pajak pendapatan dan sistem tunjungan sosial, bertujuan mencapai distribusi kemakmuran yang lebih merata.
 
 Pemerintah mampu meningkatkan kondisi perekonomian, namun tidak selalu berarti pemerintah akan melakukannya. Kebijakan publik dibuat bukan oleh malaikat, melainkan oleh suatu proses politis yang lebih sempurna. Terkadang kebijakan-kebijakan tersebut dirancang sekedar untuk menghargai mereka yang berkuasa dalam politik. Kali lain, kebijakan-kebijakan dibuat oleh para pemimpin yang punya niat baik tapi kekurangan informasi. Salah satu tujuan mempelajari ilmu ekonomi adalah membantu anda menentukan kapan suatu kebijakan dari pemerintah dapat disahkan untuk mendukung efisiensi dan pemerataan, dan kapan tidak.
+
 
 ***negara***
 
@@ -119,7 +165,8 @@ Tingginya tingkat peredaran uang akibat tingginya produksi uang itu sendiri, men
 Apa yang menyebabkan inflasi? Pada hampir setiap kasus tingkat inflasi yang terus-menerus dan besar-besaran, penyebab nya biasanya adalah hal yang sama, yaitu pertumbuhan jumlah uang. Ketika pemerintah mencetak uang dalam jumlah yang besar, nilai uang itu sendiri akan turun. Di Jerman pada awal 1920-an, ketika harga-harga pada umumnya meningkat tiga kali lipat setiap bulannya, jumlah uang juga meningkat tiga kali lipat setiap bulannya. Sejarah perekonomian di AS, meskipun tidak sedramatis Jerman, juga membawa kita pada kesimpulan serupa: Inflasi yang tinggi di tahun 1970-an dikaitkan dengan pertumbuhan jumlah uang yang cepat, dan inflasi yang rendah di tahun 1990-an dikaitkan dengan pertumbuhan jumlah uang yang lamban.
 
 
-- #### Masyarakat Menghadapi Trade-off Jangka Pendek antara Inflasi dan Pengangguran
+
+- #### Pemerintah Menghadapi Trade-off Jangka Pendek antara Inflasi dan Pengangguran
 
 Trade-off antara inflasi dan pengangguran sifatnya hanyalah sementara, namun dapat berlangsung bertahun-tahun. Di negara tertentu meningkatnya inflasi akan mengurangi pengangguran. Namun hal tersebut tampaknya tidak terjadi di Indonesia.
 
@@ -130,3 +177,4 @@ Berdasarkan kenaikan harga, inflasi dibagi ke dalam 4 jenis, yaitu Inflasi ringa
 _Tradeoff_ antara inflasi dan pengangguran sifatnya hanyalah sementara, namun dapat berlangsung menahun. Oleh karena itu, kurva Phillips penting bagi kita agar bisa memahami banyak perkembangan di bidang perekonomian. Khususnya, kurva Phillips penting untuk memahami [**siklus bisnis**](http://economics-update.blogspot.co.id/2016/02/kamus-ekonomi-s.html) (_business cycle_), fluktuasi yang tidak menentu dan tidak dapat ditebak dalam kegiatan ekonomi, sebagaimana diukur dari banyaknya orang yang bekerja atau jumlah barang dan jasa yang dihasilkan.
 
 Para pembuat kebijakan dapat mengeksploitasi _tradeoff_ jangka pendek antara inflasi dan pengangguran melalui beragam instrumen kebijakan. Dengan mengubah jumlah anggaran pembelanjaan negara, jumlah nilai pajak bagi pemerintah, dan jumlah uang yang dicetak, para pembuat kebijakan dapat mempengaruhi dampak kombinasi inflasi dengan pengagguran yang sedang dialami perekonomian suatu negara. Karena instrumen-instrumen pembuat kebijakan moneter dan fiskal memiliki kekuatan potensial yang besar, maka bagaimana instrumen-instrumen tersebut dapat digunakan oleh para pembuat kebijakan untuk mengendalikan perekonomian selalu menjadi topik yang akan mengundang perdebatan.
+

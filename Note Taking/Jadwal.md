@@ -9,6 +9,8 @@
 | 15:10 | Pengantar TIK   |           |                  |                 | 
 [Link zoom](https://us02web.zoom.us/j/)
 
+
+# Week Progress
 | 1   | 2   | 3   | 4   | 5   | 6   | 7   | UTS |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | ✅  | ✅  | ✅  | ✅  | ✅  |     |     |     |

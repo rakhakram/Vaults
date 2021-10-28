@@ -2,10 +2,6 @@
 
 Diupdate pada: September 14, 2021
 
-![](data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9Ijg5NiIgd2lkdGg9IjE1MzYiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmVyc2lvbj0iMS4xIi8+)![Persaingan Tidak Sempurna Definisi, Karakteristik, Jenis](https://cerdasco.com/wp-content/uploads/2019/07/Persaingan-Tidak-Sempurna-Definisi-Karakteristik-Jenis.jpg)
-
-You are here: [Home](https://cerdasco.com/) / [Ekonomi](https://cerdasco.com/topik-ekonomi/) / [Mikroekonomi](https://cerdasco.com/topik-ekonomi/mikroekonomi/) / Persaingan Tidak Sempurna: Definisi, Karakteristik, Jenis
-
 **Apa itu:** Persaingan tidak sempurna _(imperfect competition)_ adalah struktur pasar di mana penjual atau pembeli memiliki kekuatan pasar atas harga, yang mana mencegah pasar beroperasi di bawah [persaingan sempurna](https://cerdasco.com/persaingan-sempurna/). Karena memiliki kekuatan pasar, pelaku pasar seringkali berada dalam posisi untuk menyalahgunakan kekuasaan mereka, menaikkan harga, dan memanipulasi pasar untuk mengamankan keuntungan yang lebih tinggi.
 
 Contoh pasar persaingan tidak sempurna adalah persaingan monopolistik, oligopoli dan monopoli. Dalam hal ini, produsen (penjual) memiliki kekuatan untuk mempengaruhi harga dan bertindak sebagai _price maker_. Untuk memperoleh keuntungan yang tinggi, mereka menetapkan harga di atas biaya marginal.
