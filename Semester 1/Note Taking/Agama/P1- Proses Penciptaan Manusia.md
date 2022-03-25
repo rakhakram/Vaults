@@ -4,8 +4,14 @@ Kelas : ASP 01 - 02
 Mata Kuliah : Agama
 
 
+### OUTLINE:
+- proses penciptaan manusia
+- dimensi-dimensi manusia
+- sifat-sifat dasar manusia
+- kedudukan dan tujuan penciptaan manusia
+
 # Proses Penciptaan Manusia
-Ada dua proses, yaitu proses secara alami dan azali. Proses penciptaan manusia secara alami ditandai dengan adanya campur tangan manusia. Proses penciptaan azali tidak ada campur tangan manusia dalam penciptaannya. 
+Ada dua proses, yaitu proses secara alami dan azali. Proses penciptaan manusia secara **alami** ditandai dengan adanya campur tangan manusia. Proses penciptaan **azali** tidak ada campur tangan manusia dalam penciptaannya. 
 
 ### Dalil Proses Penciptaan Manusia secara Alami
 *contohnya: anak yang lahir dari pasangan suami istri*
@@ -26,11 +32,11 @@ Ada dua proses, yaitu proses secara alami dan azali. Proses penciptaan manusia s
 *sesungguhnya Kami telah menciptakan manusia dalam bentuk yang sebaik-baiknya.*
 
 Dari dalil-dalil di atas, dapat kita simpulkan bahwa manusia mengalami **lima tahapan dalam penciptaanya**, yaitu:
-1. *Nutfah* : Proses bertemunya tetesan cairan pria (mani) dan sel telur dalam rahim
-2. *'Alaqah* : Berkembang menjadi segumpal darah atau embrio setelah 24-25 hari dari masa pembuahan
-3. *Mudgoh* : Berkembang menjadi segumpal daging setelah 26-27 hari dari 'Alaqah
-4. *'Idhom* :  Berkembang menjadi daging yang bertulang
-5. *Lahm* : Berkembang menjadi daging bertulang yang ditutupi oleh otot
+1. ***Nutfah*** : Proses bertemunya tetesan cairan pria (mani) dan sel telur dalam rahim
+2. *'**Alaqah*** : Berkembang menjadi segumpal darah atau embrio setelah 24-25 hari dari masa pembuahan
+3. ***Mudgoh*** : Berkembang menjadi segumpal daging setelah 26-27 hari dari 'Alaqah
+4. *'**Idhom*** :  Berkembang menjadi daging yang bertulang
+5. ***Lahm*** : Berkembang menjadi daging bertulang yang ditutupi oleh otot
 
 ### Dalil Proses Penciptaan Manusia secara Azali
 *contohnya: Nabi Isa, Nabi Adam, Siti Hawa*
@@ -42,18 +48,45 @@ Dari dalil-dalil di atas, dapat kita simpulkan bahwa manusia mengalami **lima ta
 *Maka apabila telah Kusempurnakan kejadiannya dan Kutiupkan kepadanya roh (ciptaan)Ku; maka hendaklah kamu tersungkur dengan bersujud kepadanya".*
 
 
+# Proses penciptaan manusia menurut quran
+- Q.S Al-Hijr (15) : 28 - 29
+**وَإِذْ قَالَ رَبُّكَ لِلْمَلَائِكَةِ إِنِّي خَالِقٌ بَشَرًا مِنْ صَلْصَالٍ مِنْ حَمَإٍ مَسْنُونٍ**
+*Dan (ingatlah), ketika Tuhanmu berfirman kepada para malaikat: "Sesungguhnya Aku akan menciptakan seorang manusia dari tanah liat kering (yang berasal) dari lumpur hitam yang diberi bentuk,*
+- Q.S Al-Hijr (15) : 28 - 29
+**فَإِذَا سَوَّيْتُهُ وَنَفَخْتُ فِيهِ مِنْ رُوحِي فَقَعُوا لَهُ سَاجِدِينَ**
+*Maka apabila Aku telah menyempurnakan kejadiannya, dan telah meniup kan kedalamnya ruh (ciptaan)-Ku, maka tunduklah kamu kepadanya dengan bersujud.*
+
 # Esensi Manusia
 sebagai seorang hamba, sudah sepatutnya kita mengetahui siapa yang dimuliakan, dicintai, dan tidak dicintai oleh Allah sehingga dengan tiga hal tersebut, kita dapat menentukan sifat dan perbuatan kita.
 ### Penyebutan manusia dalam Al - Qur'an
-1. *Insan* : makhluk istimewa yang memiliki akal dan dapat menganalisis
-2. *An-nas* : jamak manusia dalam konteks sosial
-3. *Basyar* : makhluk tunggal biologis
-4. *Bani adalm & Zurriyah adalm* : anak Adam & cucu Adam
+1. insan
+manusia sebagai makhluk istimewa (manusia diberikan kecerdasan)
+2. an-Nas 
+berbentuk jamak yang berarti manusia dalam konteks sosial.
+3. basyar
+bentuk tunggalnya basayarah yang berarti kulit  (Manusia sebagai makhluk biologis)
+4. bani adam (anak adam) dan zurriyah adam (cucu adam)
 
-### Kelebihan Manusia
+### Dimensi Manusia
+##### Materi
+- fisik
+##### Nonmateri
+- fitrah
+- nafs
+- ruh 
+- qolbu
+- akal
+
+
+### Kelebihan/Sifat Manusia
 - makhluk yang dimuliakan oleh Allah
 - makhluk yang dipilih sebagai khalifah
 - makhluk yang dapat dididik
+
+### Kelemahan Manusia
+- tidak pandai bersyukur
+- tidak mau menggunakan akal, pikiran, pendengaran, serta penglihatan untuk kebaikan dan ketaatan pada Robb
+
 ### Tujuan Manusia
 - Mengabdi
 Q.S. Az-Zariyat (51):56

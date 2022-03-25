@@ -5,16 +5,16 @@ patokan perilaku ekonomi dalam kegiatan perekonomian agar tindakan yang dibuat s
 
 *memperoleh hasil semaksimal mungkin dengan pengorbanan tertentu*
 
-> **==1. trade-off==**
+> **==1. Pelaku ekonomi dihadapkan dengan masalah trade-off==**
 > - Mengorbankan suatu kegiatan/keadaan demi keadaan lain.
 > - Ada pihak yang diuntungkan & dirugikan jika menyangkut hajat orang banyak
 
-> **==2. *opportunity cost*==**
+> **==2. *Biaya adalah sesuatu yang harus dikorbankan untuk memperoleh sesuatu*==**
 > - biaya implisit yang dikorbankan untuk memperoleh kesempatan lainnya
 
-> **==3. berpikir rasional dengan konsep marginal==**
+> **==3. Orang yang rasional berpikir dengan konsep marjinal==**
 > - pengambilan keputusan dengan bijaksana berdasarkan data yang ada sehingga memperoleh marginal benefit
-> - meminimalisir kerugian
+> - *meminimalisir kerugian*
 
 > **==4. orang bereaksi terhadap insentif==**
 > - insentif (pajak/subsidi) memberi pengaruh kepada perilaku masyarakat.

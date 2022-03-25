@@ -1,4 +1,4 @@
-![](media/banner.png)
+![](banner.png)
 
 <div align="center">
 
@@ -201,7 +201,7 @@ by [@deathau](https://github.com/deathau)
 
 Relationship lines that shows hierarchy, like in code editors.
 
-![](media/css-snippets/bullet-point-relationship-lines-1.png)
+![](bullet-point-relationship-lines-1.png)
 [📁 bullet-point-relationship-lines.css](code/css-snippets/bullet-point-relationship-lines.css)
 
 ---
@@ -212,7 +212,7 @@ by [@Rumen Dimitrov](https://forum.obsidian.md/u/rsdimitrov)
 
 Fades note's header controls and status bar items when not hovered.
 
-![](media/css-snippets/autofading-ui-1.gif)
+![](autofading-ui-1.gif)
 [📁 autofading-ui.css](code/css-snippets/autofading-ui.css)
 
 ---
@@ -221,7 +221,7 @@ Fades note's header controls and status bar items when not hovered.
 
 by [@Rumen Dimitrov](https://forum.obsidian.md/u/rsdimitrov)
 
-![](media/css-snippets/smaller-scrollbar-1.png)
+![](smaller-scrollbar-1.png)
 
 [📁 smaller-scrollbar.css](code/css-snippets/smaller-scrollbar.css)
 
@@ -233,7 +233,7 @@ by [@Rumen Dimitrov](https://forum.obsidian.md/u/rsdimitrov)
 
 Increases the size of the folding gutter arrows and decreases their opacity until hovered.
 
-![](media/css-snippets/subtler-folding-gutter-arrows-1.png)
+![](subtler-folding-gutter-arrows-1.png)
 
 [📁 subtler-folding-gutter-arrows.css](code/css-snippets/subtler-folding-gutter-arrows.css)
 
@@ -245,7 +245,7 @@ by [@Boyd](https://forum.obsidian.md/u/boyd/summary)
 
 Justifies the whole text and breaks words into two lines if needed.
 
-![](media/css-snippets/hyphenation-and-justification-1.png)
+![](hyphenation-and-justification-1.png)
 
 [📁 hyphenation-and-justification.css](code/css-snippets/hyphenation-and-justification.css)
 
@@ -255,7 +255,7 @@ Justifies the whole text and breaks words into two lines if needed.
 
 by [@den](https://forum.obsidian.md/u/den/summary)
 
-![](media/css-snippets/enlarge-image-on-hover-1.gif)
+![](enlarge-image-on-hover-1.gif)
 
 [📁 enlarge-image-on-hover.css](code/css-snippets/enlarge-image-on-hover.css)
 
@@ -267,7 +267,7 @@ by [@kepano](https://forum.obsidian.md/u/kepano/summary) & [@rsdimitrov](https:/
 
 To toggle a checkbox, place your cursor right after it, press left arrow once and then press backspace.
 
-![](media/css-snippets/nicer-checkboxes-1.gif)
+![](nicer-checkboxes-1.gif)
 
 [📁 nicer-checkboxes.css](code/css-snippets/nicer-checkboxes.css)
 
@@ -277,7 +277,7 @@ To toggle a checkbox, place your cursor right after it, press left arrow once an
 
 by [@Thery](https://forum.obsidian.md/u/Thery/summary)
 
-![](media/css-snippets/stylish-blockquotes-1.png)
+![](stylish-blockquotes-1.png)
 
 [📁 stylish-blockquotes.css](code/css-snippets/stylish-blockquotes.css)
 
@@ -287,7 +287,7 @@ by [@Thery](https://forum.obsidian.md/u/Thery/summary)
 
 by [@Cannibalox](https://github.com/cannibalox) & [@konhi](https://github.com/konhi)
 
-![](media/css-snippets/bigger-link-popup-preview-1.png)
+![](bigger-link-popup-preview-1.png)
 
 [📁 bigger-link-popup-preview.css](code/css-snippets/bigger-link-popup-preview.css)
 
@@ -299,7 +299,7 @@ by [@deathau](https://github.com/deathau)
 
 Adds custom icons for files and folders. Please read the comments in the `.css` file.
 
-![](media/css-snippets/custom-icons-differing-files-and-folders-1.png)
+![](custom-icons-differing-files-and-folders-1.png)
 
 [📁 custom-icons-differing-files-and-folders.css](code/css-snippets/custom-icons-differing-files-and-folders.css)
 
@@ -313,7 +313,7 @@ by [@ScottKillen](https://github.com/ScottKillen)
 
 Adds custom icons to **specific** folders.
 
-![](media/css-snippets/custom-icons-for-specific-folders-1.png)
+![](custom-icons-for-specific-folders-1.png)
 
 [📁 custom-icons-for-specific-folders.css](code/css-snippets/custom-icons-for-specific-folders.css)
 
@@ -323,7 +323,7 @@ Adds custom icons to **specific** folders.
 
 by [@uzerper](https://forum.obsidian.md/u/uzerper)
 
-![](media/css-snippets/tag-pills-1.png)
+![](tag-pills-1.png)
 
 [📁 tag-pills.css](code/css-snippets/tag-pills.css)
 
@@ -336,7 +336,7 @@ by [@ScottKillen](https://github.com/ScottKillen)
 Adds custom icons to **specific** tags in the frontmatter section.
 Compatible with [Tag Pills](#tag-pills) and most themes, including [minimal](https://forum.obsidian.md/t/minimal-theme/3659).
 
-![](media/css-snippets/custom-icons-for-frontmatter-tags-1.png)
+![](custom-icons-for-frontmatter-tags-1.png)
 
 [📁 custom-icons-for-frontmatter-tags.css](code/css-snippets/custom-icons-for-frontmatter-tags.css)
 
@@ -346,7 +346,7 @@ Compatible with [Tag Pills](#tag-pills) and most themes, including [minimal](htt
 
 by [@Shamama](https://forum.obsidian.md/u/Shamama), [@wonton](https://forum.obsidian.md/u/wonton/summary) & [@konhi](https://github.com/konhi)
 
-![](media/css-snippets/outliner-for-the-outline-and-file-explorer-1.png)
+![](outliner-for-the-outline-and-file-explorer-1.png)
 
 [📁 outliner-for-the-outline-and-file-explorer.css](code/css-snippets/outliner-for-the-outline-and-file-explorer.css)
 
@@ -356,7 +356,7 @@ by [@Shamama](https://forum.obsidian.md/u/Shamama), [@wonton](https://forum.obsi
 
 by [@Piotr](https://forum.obsidian.md/u/Piotr) & [@konhi](https://github.com/konhi)
 
-![](media/css-snippets/better-bullet-points-in-edit-mode-1.gif)
+![](better-bullet-points-in-edit-mode-1.gif)
 
 [📁 better-bullet-points-in-edit-mode.css](code/css-snippets/better-bullet-points-in-edit-mode.css)
 
@@ -368,7 +368,7 @@ by [@TClark1011](https://github.com/TClark1011)
 
 Give your images a shadow and rounded corners.
 
-![](media/css-snippets/image-cards-1.png)
+![](image-cards-1.png)
 
 [📁 image-cards.css](code/css-snippets/image-cards.css)
 
